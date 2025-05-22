@@ -1,4 +1,4 @@
-# Entregable-1---SQL
+# Entregable 1 Telecomunicaciones_lineas_de_telefonia
 🧩 Caso propuesto: Gestión de Líneas Telefónicas en una Empresa de Telecomunicaciones
 Una empresa llamada TeleNova S.A. brinda servicios de telecomunicaciones, principalmente líneas telefónicas móviles y fijas. La empresa desea implementar una base de datos para llevar un mejor control de:
 
