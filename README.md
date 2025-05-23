@@ -102,4 +102,7 @@ Obtener el total recaudado por plan en un mes.
 
 Identificar líneas sin pagos registrados en el último mes.
 
-#Diagrama Entidad Relacion
+# Diagrama Entidad Relacion
+
+![image](https://github.com/user-attachments/assets/5981145d-1f03-4058-b552-e39531f3cab0)
+
