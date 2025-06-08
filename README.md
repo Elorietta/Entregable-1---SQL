@@ -106,3 +106,8 @@ Identificar líneas sin pagos registrados en el último mes.
 
 ![image](https://github.com/user-attachments/assets/5981145d-1f03-4058-b552-e39531f3cab0)
 
+# Diseño logico
+
+![image](https://github.com/user-attachments/assets/b901f3d5-d1dd-44f6-af32-e19ddc2a71e4)
+
+
